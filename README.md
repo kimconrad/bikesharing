@@ -29,18 +29,28 @@ The analysis will:
 
 1. Pandas dataframe code: nyc_citibike_challenge.ipynb
 
-2. Tableau Workbook:
-https://public.tableau.com/views/NYC_CitiBike_Challenge_16462742299930/TripsbyGenderWeekdayperHour?:language=en-US&:display_count=n&:origin=viz_share_link
+2. Primary Tableau Workbook:
+https://public.tableau.com/app/profile/kim.conrad2713/viz/NYC_CitiBike_Challenge_16462742299930/PrimaryStory?publish=yes
 
-3. Tableau Dashboard:
-
-
->
->
+3. Tableau Dashboard [includes all module work]:
+https://public.tableau.com/app/profile/kim.conrad2713
 
 # Project Summary
+Observations from NYC_CitiBike_Challenge work:
 
-This analysis script can be easily utilized for future election audits. As written, the code has been designed to accomodate any number of candidates or counties, and could be used in a local or statewide capacity. 
+-- Typical commute / rush hour timeframes are generally reflected in the overall trips per weekday per hour data. 
 
-This script could also easily be modified to include any number of parameters, such as total votes and/or vote percentages by district or zip code, assuming these data points are included in the original dataset. 
+-- Weekdays (Mon-Fri) between 7am-9am and 5pm-7pm show the highest number of trips per hour, with Thursday being the highest volume day during the week. 
+
+-- Weekend days (Sat-Sun) see relatively consistent levels of utilization throughout the day between 9am-7pm. 
+
+-- Very similar patterns are reflected across each gender category. The Male category shows the most distinct data, but all three reflect typical rush hour commute timeframes during the week and utilization throughout the day on the weekends. 
+
+
+From earlier NYC_CitiBike_Module work: 
+
+-- Top starting and ending locations are primarily centralized in midtown/downtown Manhattan. 
+
+-- Trip duration generally trended to be slightly longer for younger riders and shorter for older riders, although there are some outliers to this trend as well. 
+
 
