@@ -10,9 +10,9 @@ Utilizing Tableau and Pandas to visualize bikesharing data in NYC from August 20
 ## Project Tasks
 The analysis will:
 
-1. Import .csv file from NYC Citibike bikesharing website [link]
+1. Import .csv file from NYC Citibike bikesharing website: https://ride.citibikenyc.com/system-data
 2. Load into Pandas dataframe to transform datetime column + export updated .csv file
-3. Visualize data in Tableau 
+3. Visualize data in Tableau: https://public.tableau.com/app/profile/kim.conrad2713
 
 
 ## Resources
